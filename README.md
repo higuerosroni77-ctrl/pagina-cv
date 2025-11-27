@@ -88,7 +88,7 @@ Mi currículum actualizado está disponible aquí:
 
 👉 cv_actualizado.pdf
 
-🔗 Sitio Web Publicado (GitHub Pages)
+🔗 Sitio Web Publicado ( https://higuerosroni77-ctrl.github.io/pagina-cv/)
 
 https://github.com/higuerosroni77-ctrl/pagina-cv.git
 
