@@ -90,11 +90,8 @@ Mi currículum actualizado está disponible aquí:
 
 🔗 Sitio Web Publicado (GitHub Pages)
 
-Añade aquí tu link cuando esté listo:
+https://github.com/higuerosroni77-ctrl/pagina-cv.git
 
-👉 https://tuusuario.github.io/tu-repositorio
-
-(Te ayudo a generar tu link si querés).
 
 📂 Estructura del Proyecto
 /
